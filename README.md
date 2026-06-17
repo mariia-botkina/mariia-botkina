@@ -1,9 +1,16 @@
-### Hey there, I'm Mariia Botkina 💕
-I'm student of Herzen university majoring in applied mathematics and computer science
+### Mariia Botkina
 
-- 📍 I'm from Saint-Petersburg
-- 🌱 I’m currently learning **Python, C#, Delphi**. 
-- 📫 How to reach me: mariiabotkina@gmail.com 
+Information security engineer in the making.
+Focused on cryptography, PKI, and TLS/X.509 infrastructure.
+
+Currently studying applied mathematics & CS at Herzen University, Saint Petersburg.
+
+**Interests:** Public Key Infrastructure · Hybrid encryption ·
+               Certificate lifecycle · Cryptographic protocols
+
+**Stack:** Python · OpenSSL · pycryptodome
+
+📫 mariiabotkina@gmail.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mariia-botkina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mariia_botkina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/mariia_botkina)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mariia-botkina/)
