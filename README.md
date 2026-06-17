@@ -3,7 +3,7 @@
 Information security engineer in the making.
 Focused on cryptography, PKI, and TLS/X.509 infrastructure.
 
-Currently studying applied mathematics & CS at Herzen University, Saint Petersburg.
+Currently studying Information Security at ITMO University, Saint Petersburg.
 
 **Interests:** Public Key Infrastructure · Hybrid encryption ·
                Certificate lifecycle · Cryptographic protocols
