@@ -8,7 +8,7 @@ Currently studying Information Security at ITMO University, Saint Petersburg.
 **Interests:** Public Key Infrastructure · Hybrid encryption ·
                Certificate lifecycle · Cryptographic protocols
 
-**Stack:** Python · OpenSSL · pycryptodome
+**Stack:** Python · OpenSSL · pycryptodome · cryptography
 
 📫 mariiabotkina@gmail.com
 
